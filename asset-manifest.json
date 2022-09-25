@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.04bc6fac.chunk.css",
+    "main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.bf8c49dc.chunk.js",
+    "main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.bf8c49dc.chunk.js.map",
+    "runtime-main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.65af9e16.js",
+    "runtime-main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.65af9e16.js.map",
+    "static/js/2.704c1d84.chunk.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js",
+    "static/js/2.704c1d84.chunk.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js.map",
+    "index.html": "https://smaranholkar.github.io/csb-zx5yyo/index.html",
+    "static/css/main.04bc6fac.chunk.css.map": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.04bc6fac.chunk.css.map",
+    "static/js/2.704c1d84.chunk.js.LICENSE.txt": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js.LICENSE.txt",
+    "static/media/computer.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/computer.b6c39317.jpg",
+    "static/media/electriccar.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/electriccar.9ab96de8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.65af9e16.js",
+    "static/js/2.704c1d84.chunk.js",
+    "static/css/main.04bc6fac.chunk.css",
+    "static/js/main.bf8c49dc.chunk.js"
+  ]
+}
