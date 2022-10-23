@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.04bc6fac.chunk.css",
-    "main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.bf8c49dc.chunk.js",
-    "main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.bf8c49dc.chunk.js.map",
-    "runtime-main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.65af9e16.js",
-    "runtime-main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.65af9e16.js.map",
-    "static/js/2.704c1d84.chunk.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js",
-    "static/js/2.704c1d84.chunk.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js.map",
+    "main.css": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.8a0bacbb.chunk.css",
+    "main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.c5932110.chunk.js",
+    "main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/main.c5932110.chunk.js.map",
+    "runtime-main.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.710f07bd.js",
+    "runtime-main.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/runtime-main.710f07bd.js.map",
+    "static/css/2.89ff27bf.chunk.css": "https://smaranholkar.github.io/csb-zx5yyo/static/css/2.89ff27bf.chunk.css",
+    "static/js/2.c06f0c69.chunk.js": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.c06f0c69.chunk.js",
+    "static/js/2.c06f0c69.chunk.js.map": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.c06f0c69.chunk.js.map",
     "index.html": "https://smaranholkar.github.io/csb-zx5yyo/index.html",
-    "static/css/main.04bc6fac.chunk.css.map": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.04bc6fac.chunk.css.map",
-    "static/js/2.704c1d84.chunk.js.LICENSE.txt": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.704c1d84.chunk.js.LICENSE.txt",
+    "static/css/2.89ff27bf.chunk.css.map": "https://smaranholkar.github.io/csb-zx5yyo/static/css/2.89ff27bf.chunk.css.map",
+    "static/css/main.8a0bacbb.chunk.css.map": "https://smaranholkar.github.io/csb-zx5yyo/static/css/main.8a0bacbb.chunk.css.map",
+    "static/js/2.c06f0c69.chunk.js.LICENSE.txt": "https://smaranholkar.github.io/csb-zx5yyo/static/js/2.c06f0c69.chunk.js.LICENSE.txt",
+    "static/media/AI.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/AI.b1be5452.jpg",
+    "static/media/blockchain.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/blockchain.bd5e1623.jpg",
     "static/media/computer.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/computer.b6c39317.jpg",
-    "static/media/electriccar.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/electriccar.9ab96de8.jpg"
+    "static/media/electriccar.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/electriccar.9ab96de8.jpg",
+    "static/media/nothing.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/nothing.8b301b45.jpg",
+    "static/media/social.jpg": "https://smaranholkar.github.io/csb-zx5yyo/static/media/social.4f6f744a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.65af9e16.js",
-    "static/js/2.704c1d84.chunk.js",
-    "static/css/main.04bc6fac.chunk.css",
-    "static/js/main.bf8c49dc.chunk.js"
+    "static/js/runtime-main.710f07bd.js",
+    "static/css/2.89ff27bf.chunk.css",
+    "static/js/2.c06f0c69.chunk.js",
+    "static/css/main.8a0bacbb.chunk.css",
+    "static/js/main.c5932110.chunk.js"
   ]
 }
